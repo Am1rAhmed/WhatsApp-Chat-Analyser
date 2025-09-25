@@ -8,18 +8,18 @@ It uses Python libraries such as pandas, matplotlib, seaborn, wordcloud, and Str
 
 Requirements:
 -------------
-- Python 3.8 or higher
-- Virtual environment (.venv)
+- Python 3.8 or higher.
+- Virtual environment (.venv).
 - Packages:
-    pandas
-    urlextract
-    matplotlib
-    wordcloud
-    emoji
-    streamlit
-    preprocessor
-    seaborn
-    streamlit-lottie
+    pandas,
+    urlextract,
+    matplotlib,
+    wordcloud,
+    emoji,
+    streamlit,
+    preprocessor,
+    seaborn,
+    streamlit-lottie.
 
 Setup Instructions:
 ------------------
