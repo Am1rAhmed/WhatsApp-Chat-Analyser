@@ -10,7 +10,7 @@ Requirements:
 -------------
 - Python 3.8 or higher
 - Virtual environment (.venv)
-- Packages listed below:
+- Packages:
     pandas
     urlextract
     matplotlib
